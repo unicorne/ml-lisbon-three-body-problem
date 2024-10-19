@@ -1,0 +1,7 @@
+submissions/*
+!submissions/.gitkeep
+mlNOVA/*
+!mlNOVA/.gitkeep
+*.pyc
+__pycache__/*
+*.DS_Store
